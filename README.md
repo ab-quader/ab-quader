@@ -23,7 +23,7 @@ in industrial automation. Learning new ways to think and apply in the fields of 
 | RL Locomotion 🚧 | PPO agent for simulated locomotion — coming Sem. 2 | RL, PyTorch, MuJoCo |
 
 ## Courses Summer 2026 @ LUH
-- Robotic I
+- Robotics I
 - Data & AI-driven Methods in Engineering
 - Image Analysis I
 - Artificial Intelligence I
