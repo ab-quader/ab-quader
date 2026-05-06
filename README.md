@@ -1,12 +1,11 @@
-# Hi, I'm AB Quader 👋
+# Hi, I'm Abdul Quader 👋
 
 🎓 M.Sc. Student — AI-driven Mechatronics & Robotics  
 📍 Leibniz University Hannover (LUH), Germany  
 🎯 Interested in: Legged Robotics | Robot Learning | State Estimation | Computer Vision
 
-
-![Degree](https://img.shields.io/badge/M.Sc.-Mechatronics%20%26%20Robotics-red)
-![University](https://img.shields.io/badge/LUH-Hannover-blue)
+[![Degree](https://img.shields.io/badge/M.Sc.-AI--driven%20Mechatronics%20%26%20Robotics-red)](https://www.uni-hannover.de/en/studium/studienangebot/info/studiengang/detail/ai-driven-mechatronics-and-robotics)
+[![University](https://img.shields.io/badge/LUH-Hannover-blue)](https://www.uni-hannover.de/en/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/abdul-quader-59b1a719a)
 
 ## About Me
