@@ -1,4 +1,4 @@
-# Hi, I'm A. Quader 👋
+# Hi, I'm AB Quader 👋
 
 🎓 M.Sc. Student — AI-driven Mechatronics & Robotics  
 📍 Leibniz University Hannover (LUH), Germany  
@@ -6,9 +6,8 @@
 
 ## About Me
 Mechanical Engineer (AUST, Bangladesh, 2023) now specializing in 
-AI-driven robotics at LUH. Previously worked at Atlas Copco Bangladesh 
-in industrial automation. Building toward research in autonomous 
-robotic systems.
+AI-driven Mechatronics & Robotics at LUH. Previously worked at Atlas Copco Bangladesh 
+in industrial automation. Learning new ways to think and apply in the fields of AI & Robotics. 
 
 ## Currently Learning
 - 🤖 ROS 2
@@ -23,9 +22,13 @@ robotic systems.
 | Robot Localization 🚧 | Particle filter SLAM — coming Sem. 2 | SLAM, Robotics |
 | RL Locomotion 🚧 | PPO agent for simulated locomotion — coming Sem. 2 | RL, PyTorch, MuJoCo |
 
-## Courses Summer 2026@ LUH
-Robotics I · Recursive State Estimation · AI I · 
-Image Analysis I · Data & AI-driven Methods in Engineering
+## Courses Summer 2026 @ LUH
+- Robotic I
+- Data & AI-driven Methods in Engineering
+- Image Analysis I
+- Artificial Intelligence I
+- Recursive State Estimation for Dynamic Systems
+
 
 ## Connect
 🔗 [LinkedIn](linkedin.com/in/abdul-quader-59b1a719a)
