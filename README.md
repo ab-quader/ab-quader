@@ -31,4 +31,11 @@ in industrial automation. Learning new ways to think and apply in the fields of 
 
 
 ## Connect
+
+
+![Degree](https://img.shields.io/badge/M.Sc.-Mechatronics%20%26%20Robotics-red)
+![University](https://img.shields.io/badge/LUH-Hannover-blue)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/abdul-quader-59b1a719a)
+
+---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-quader-59b1a719a)
