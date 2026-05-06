@@ -19,9 +19,9 @@ robotic systems.
 ## Projects
 | Project | Description | Topics |
 |---|---|---|
-| [Kalman Filter Visualizer](#) | Interactive Kalman filter for 2D tracking | State Estimation, Python |
-| [Robot Localization](#) | Particle filter SLAM implementation | SLAM, Robotics |
-| [RL Locomotion](#) | PPO agent for simulated locomotion | RL, PyTorch, MuJoCo |
+| [Kalman Filter Robotics](https://github.com/ab-quader/kalman-filter-robotics) | Kalman & EKF implementation for 2D tracking | State Estimation, Python |
+| Robot Localization 🚧 | Particle filter SLAM — coming Sem. 2 | SLAM, Robotics |
+| RL Locomotion 🚧 | PPO agent for simulated locomotion — coming Sem. 2 | RL, PyTorch, MuJoCo |
 
 ## Courses Summer 2026@ LUH
 Robotics I · Recursive State Estimation · AI I · 
@@ -29,4 +29,4 @@ Image Analysis I · Data & AI-driven Methods in Engineering
 
 ## Connect
 📧 abdul.quader@stud.uni-hannover.de  
-🔗 [LinkedIn](#)linkedin.com/in/abdul-quader-59b1a719a
+🔗 [LinkedIn](linkedin.com/in/abdul-quader-59b1a719a)
