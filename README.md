@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm A. Quader 👋
 
-<!--
-**ab-quader/ab-quader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 M.Sc. Student — AI-driven Mechatronics & Robotics  
+📍 Leibniz University Hannover (LUH), Germany  
+🎯 Interested in: Legged Robotics | Robot Learning | State Estimation | Computer Vision
 
-Here are some ideas to get you started:
+## About Me
+Mechanical Engineer (AUST, Bangladesh, 2023) now specializing in 
+AI-driven robotics at LUH. Previously worked at Atlas Copco Bangladesh 
+in industrial automation. Building toward research in autonomous 
+robotic systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- 🤖 ROS 2
+- 🧠 Deep Reinforcement Learning (PyTorch)
+- 📡 Kalman & Particle Filters
+- 👁️ Computer Vision (CNNs, Transformers)
+
+## Projects
+| Project | Description | Topics |
+|---|---|---|
+| [Kalman Filter Visualizer](#) | Interactive Kalman filter for 2D tracking | State Estimation, Python |
+| [Robot Localization](#) | Particle filter SLAM implementation | SLAM, Robotics |
+| [RL Locomotion](#) | PPO agent for simulated locomotion | RL, PyTorch, MuJoCo |
+
+## Courses Summer 2026@ LUH
+Robotics I · Recursive State Estimation · AI I · 
+Image Analysis I · Data & AI-driven Methods in Engineering
+
+## Connect
+📧 abdul.quader@stud.uni-hannover.de  
+🔗 [LinkedIn](#)linkedin.com/in/abdul-quader-59b1a719a
