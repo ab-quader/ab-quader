@@ -31,4 +31,4 @@ in industrial automation. Learning new ways to think and apply in the fields of 
 
 
 ## Connect
-🔗 [LinkedIn](linkedin.com/in/abdul-quader-59b1a719a)
+🔗 [LinkedIn](www.linkedin.com/in/abdul-quader-59b1a719a)
