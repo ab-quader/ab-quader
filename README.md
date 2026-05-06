@@ -28,5 +28,4 @@ Robotics I · Recursive State Estimation · AI I ·
 Image Analysis I · Data & AI-driven Methods in Engineering
 
 ## Connect
-📧 abdul.quader@stud.uni-hannover.de  
 🔗 [LinkedIn](linkedin.com/in/abdul-quader-59b1a719a)
