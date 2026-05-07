@@ -26,6 +26,13 @@ in industrial automation. Learning new ways to think and apply in the fields of 
 | Robot Localization 🚧 | Particle filter SLAM — coming Sem. 2 | SLAM, Robotics |
 | RL Locomotion 🚧 | PPO agent for simulated locomotion — coming Sem. 2 | RL, PyTorch, MuJoCo |
 
+## Publications
+📄 A. Das et al. (incl. **A. Quader**), "Augmentation of 
+convection heat transfer in bioinspired corrugated channels 
+using CFD and ML approaches," *Int. Comm. Heat Mass Transfer*, 
+vol. 172, 2026.
+[Read Paper](https://doi.org/10.1016/j.icheatmasstransfer.2026.110512)
+
 ## Courses Summer 2026 @ LUH
 - Robotics I
 - Data & AI-driven Methods in Engineering
