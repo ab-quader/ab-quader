@@ -1,6 +1,6 @@
 # Hi, I'm Abdul Quader 👋
 
-🎓 M.Sc. Student — AI-driven Mechatronics & Robotics  
+🎓 M.Sc. Student - AI-driven Mechatronics & Robotics  
 📍 Leibniz University Hannover (LUH), Germany  
 🎯 Interested in: Legged Robotics | Robot Learning | State Estimation | Computer Vision
 
@@ -9,9 +9,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/abdul-quader-59b1a719a)
 
 ## About Me
-Mechanical Engineer (AUST, Bangladesh, 2023) now specializing in 
-AI-driven Mechatronics & Robotics at LUH. Previously worked at Atlas Copco Bangladesh 
-in industrial automation. Learning new ways to think and apply in the fields of AI & Robotics. 
+- Master's in AI-driven Mechatronics and Robotics (2026) - Leibniz University Hannover, Germany
+- German A1-B1 (2025) - Goethe-Institut Dhaka
+- Graduate Trainee Engineer (2024) - Atlas Cocpo Bangladesh Ltd.
+- Bachelor of Science in Mechanical Engineering (2023) - AUST, Dhaka
 
 ## Currently Learning
 - 🤖 ROS 2
